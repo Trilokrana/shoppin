@@ -150,5 +150,5 @@ Open the Android project in Android Studio:
 npx cap open android
 ```
 
-Conclusion
+### Conclusion
 Shoppin is a feature-rich e-commerce app that demonstrates the power of React, Capacitor, and Tailwind CSS. The swipe gestures and native Android integration provide a seamless user experience.
