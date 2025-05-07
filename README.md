@@ -54,7 +54,7 @@ To clone the repository and set up the project locally, follow these steps:
 Open your terminal and run the following command to clone the repository:
 
 ```bash
-git clone https://github.com/your-username/shoppin.git
+git clone https://github.com/Trilokrana/shoppin.git
 ```
 
 Navigate to the project directory:
