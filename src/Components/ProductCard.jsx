@@ -9,7 +9,7 @@ const ProductCard = () => {
 
   useEffect(() => {
     if (!products || products.length === 0) {
-      console.error("No products data found or products array is empty");
+      console.error("No products found !");
     }
 
 
@@ -222,7 +222,7 @@ const ProductCard = () => {
                     style={{ maxHeight: "40%" }} 
                   >
                     <div>
-                      <h2 className="text-2xl font-bold flex-1">{card.name}</h2>
+                      <h2 className="text-xl font-bold flex-1 ">{card.name}</h2>
                     </div>
                     <h3 className="text-lg font-bold italic text-indigo-600">
                       {card.brand}

@@ -23,7 +23,7 @@ export const products = [
     id: 3,
     name: "White Typographic Tshirt",
     brand: "newme",
-    price: 4500, 
+    price: 4500,
     originalPrice: 6000,
     discountPercentage: 25,
     imageUrl:
@@ -31,13 +31,13 @@ export const products = [
   },
   {
     id: 4,
-    name: "Womens Grey Cotton  Blouse",
+    name: "Womens Grey Cotton Blouse",
     brand: "cottonWorld",
     price: 4500,
     originalPrice: 6000,
     discountPercentage: 25,
     imageUrl:
-      "https://cdn.shopify.com/s/files/1/0261/2386/2082/files/KZ01319YELLOWMULTI.jpg?v=1743161024", 
+      "https://cdn.shopify.com/s/files/1/0261/2386/2082/files/KZ01319YELLOWMULTI.jpg?v=1743161024",
   },
   {
     id: 5,
@@ -51,7 +51,7 @@ export const products = [
   },
   {
     id: 6,
-    name: "Spread Collar Chambray Denim Shirt With Patchwork",
+    name: "Spread Collar Denim Shirt ",
     brand: "usPolo",
     price: 4500,
     originalPrice: 6000,
@@ -62,7 +62,7 @@ export const products = [
 
   {
     id: 7,
-    name: "Graphic Print CrewNeck TShirt",
+    name: "Graphic CrewNeck TShirt",
     brand: "levis",
     price: 1199,
     originalPrice: 1999,
@@ -71,7 +71,7 @@ export const products = [
   },
   {
     id: 8,
-    name: "Striped Linen Blend Shirt Jacket",
+    name: "Striped Linen Shirt Jacket",
     brand: "zara",
     price: 3490,
     originalPrice: 4990,
@@ -89,7 +89,7 @@ export const products = [
   },
   {
     id: 10,
-    name: "Solid Color Hooded Sweatshirt",
+    name: "Solid Color Sweatshirt",
     brand: "nike",
     price: 3820,
     originalPrice: 4495,
@@ -102,7 +102,7 @@ export const products = [
     brand: "genericbrand",
     price: 1599,
     originalPrice: 2999,
-    discountPercentage: 47, 
+    discountPercentage: 47,
     imageUrl: "https://placehold.co/473x593.png?text=Product+11",
   },
   {
@@ -143,8 +143,8 @@ export const products = [
   },
   {
     id: 16,
-    name: "Chiffon Floral Print Maxi Dress",
-    brand: "shaye", 
+    name: "Chiffon Floral Print Dress",
+    brand: "shaye",
     price: 3980,
     originalPrice: 5690,
     discountPercentage: 30,
@@ -153,7 +153,7 @@ export const products = [
   {
     id: 17,
     name: "Regular Fit Polo TShirt",
-    brand: "usPolo", 
+    brand: "usPolo",
     price: 1439,
     originalPrice: 2399,
     discountPercentage: 40,
@@ -162,7 +162,7 @@ export const products = [
   {
     id: 18,
     name: "Denim Trucker Jacket",
-    brand: "levis", 
+    brand: "levis",
     price: 4899,
     originalPrice: 6999,
     discountPercentage: 30,
@@ -170,8 +170,8 @@ export const products = [
   },
   {
     id: 19,
-    name: "Abstract Print Relaxed Fit Shirt",
-    brand: "kazo", 
+    name: "Abstract Print Relaxed Shirt",
+    brand: "kazo",
     price: 2992,
     originalPrice: 3990,
     discountPercentage: 25,
@@ -198,7 +198,7 @@ export const products = [
   {
     id: 22,
     name: "Lace Detail Camisole Top",
-    brand: "styleCo", 
+    brand: "styleCo",
     price: 1199,
     originalPrice: 1999,
     discountPercentage: 40,
@@ -216,7 +216,7 @@ export const products = [
   {
     id: 24,
     name: "Wool Blend Peacoat",
-    brand: "luxeFibers", 
+    brand: "luxeFibers",
     price: 7600,
     originalPrice: 9500,
     discountPercentage: 20,
@@ -224,8 +224,8 @@ export const products = [
   },
   {
     id: 25,
-    name: "Distressed Denim Mini Skirt",
-    brand: "h & M ", 
+    name: "Distressed Denim Skirt",
+    brand: "h & M ",
     price: 1499,
     originalPrice: 2499,
     discountPercentage: 40,
@@ -242,7 +242,7 @@ export const products = [
   },
   {
     id: 27,
-    name: "Basic Cotton Crew Socks Pack Of 3",
+    name: "Basic Cotton Crew Socks",
     brand: "basicsCo",
     price: 499,
     originalPrice: 799,
@@ -251,7 +251,7 @@ export const products = [
   },
   {
     id: 28,
-    name: "Leather Belt With Classic Buckle",
+    name: "Leather Belt Classic Buckle",
     brand: "accessoriesPlus",
     price: 1250,
     originalPrice: 2000,
@@ -276,5 +276,4 @@ export const products = [
     discountPercentage: 50,
     imageUrl: "https://placehold.co/473x593.png?text=Product+30",
   },
-  
 ];

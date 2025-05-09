@@ -1,10 +1,9 @@
-const config = {
-  appId: "com.example.app",
-  appName: "shoppin",
-  webDir: "dist",
-  server: {
-    url: "http://10.0.2.2:5173",
-    cleartext: true,
-  },
+import { CapacitorConfig } from '@capacitor/cli';
+
+const config: CapacitorConfig = {
+  appId: 'com.your.app',
+  appName: 'shoppin',
+  webDir: 'dist'
 };
 
+export default config;
